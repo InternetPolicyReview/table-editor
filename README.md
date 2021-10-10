@@ -2,6 +2,7 @@
 
 WYSIWYG HTML editor for complex tables, when Markdown just doesn't cut it.
 
+Forked from [alphagov's table editor](https://github.com/alphagov/table-editor) to allow a few more tags.
 
 ## Screenshots
 
